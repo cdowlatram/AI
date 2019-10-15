@@ -1,1 +1,1 @@
-# CAP 4360: Artificial Intelligence Repository
+# CAP 4630: Artificial Intelligence Repository
